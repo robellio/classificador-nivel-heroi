@@ -10,7 +10,7 @@ necessárias para executá-lo.
 </p>
 
 <ul>
-    <li>Se quantidade de xp for menor que 1000, nível = Ferro<li>
+    <li>Se quantidade de xp for menor que 1000, nível = Ferro</li>
     <li>Se a quantidade de xp for entre 1.001 e 2.000, nível = Bronze </li>
     <li>Se a quantidade de xp for entre 2.001 e 5.000, nível = Prata</li>
     <li>Se a quantidade de xp for entre 5.001 e 6.000, nível = Ouro</li>
