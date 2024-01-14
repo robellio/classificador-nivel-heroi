@@ -28,7 +28,7 @@ necessárias para executá-lo.
 ## Como executar o programa?
 
 <p>
-primeiro é necessário ter o <strong>nodeJs</strong> instalado na máquina e você pode obte-lo em : <a href="https://nodejs.org/en" target= "_blank">NodeJS</a>
+primeiro é necessário ter o <strong>nodeJs</strong> instalado na máquina e você pode obte-lo em : <a href="https://nodejs.org/en">NodeJS</a>
 </p>
 
 <p>
